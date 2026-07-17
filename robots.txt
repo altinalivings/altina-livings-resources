@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+
+Sitemap: https://altinalivings.github.io/altina-livings-resources/sitemap.xml
