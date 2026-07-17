@@ -13,11 +13,13 @@ Website: [altinalivings.com](https://www.altinalivings.com)
 - [NRI property buying checklist for India](https://www.altinalivings.com/resources/nri-property-buying-checklist-india)
 - [NRI advisory](https://www.altinalivings.com/services/nri-advisory)
 - [Luxury real estate advisory in Gurugram](https://www.altinalivings.com/locations/gurugram)
+- [Gulshan Empire Wave City project guide](https://www.altinalivings.com/projects/gulshan-empire-wave-city)
 
 ## RERA References
 
 - Haryana: `RC/HARERA/GGM/3808/3403/2025/685`
 - Uttar Pradesh: `UPRERAAGT000531/04/2026`
 - Delhi: `AG/RERA/2025/6108`
+- Gulshan Empire Wave City project: `UPRERAPRJ166511/05/2026`
 
 Altina Livings works on a zero buyer brokerage model. Buyers pay developer-direct prices. All project information, availability, pricing, and payment terms should be verified against current developer and RERA records before a decision.

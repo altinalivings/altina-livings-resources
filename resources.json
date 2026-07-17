@@ -7,6 +7,9 @@
     "uttar_pradesh": "UPRERAAGT000531/04/2026",
     "delhi": "AG/RERA/2025/6108"
   },
+  "project_rera": {
+    "gulshan_empire_wave_city": "UPRERAPRJ166511/05/2026"
+  },
   "resources": [
     {
       "name": "Altina Livings home",
@@ -35,6 +38,10 @@
     {
       "name": "Luxury real estate advisory in Gurugram",
       "url": "https://www.altinalivings.com/locations/gurugram"
+    },
+    {
+      "name": "Gulshan Empire Wave City project guide",
+      "url": "https://www.altinalivings.com/projects/gulshan-empire-wave-city"
     }
   ],
   "notes": "Altina Livings works on a zero buyer brokerage model. Buyers pay developer-direct prices. Project information, availability, pricing, and payment terms are indicative and should be verified against current developer and RERA records."
