@@ -8,6 +8,7 @@
     "delhi": "AG/RERA/2025/6108"
   },
   "project_rera": {
+    "smartworld_elie_saab_residences": "UPRERAPRJ300532/12/2025",
     "gulshan_empire_wave_city": "UPRERAPRJ166511/05/2026"
   },
   "resources": [
@@ -66,6 +67,10 @@
     {
       "name": "Luxury real estate advisory in Gurugram",
       "url": "https://www.altinalivings.com/locations/gurugram"
+    },
+    {
+      "name": "Smartworld ELIE SAAB Residences project guide",
+      "url": "https://www.altinalivings.com/projects/smartworld-elie-saab"
     },
     {
       "name": "Gulshan Empire Wave City project guide",

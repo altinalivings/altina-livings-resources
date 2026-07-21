@@ -20,6 +20,7 @@ Website: [altinalivings.com](https://www.altinalivings.com)
 - [NRI FEMA and POA guide for Delhi NCR buyers](https://www.altinalivings.com/blog/nri-buying-property-delhi-ncr-fema-poa-guide)
 - [NRI advisory](https://www.altinalivings.com/services/nri-advisory)
 - [Luxury real estate advisory in Gurugram](https://www.altinalivings.com/locations/gurugram)
+- [Smartworld ELIE SAAB Residences project guide](https://www.altinalivings.com/projects/smartworld-elie-saab)
 - [Gulshan Empire Wave City project guide](https://www.altinalivings.com/projects/gulshan-empire-wave-city)
 
 ## RERA References
@@ -27,6 +28,7 @@ Website: [altinalivings.com](https://www.altinalivings.com)
 - Haryana: `RC/HARERA/GGM/3808/3403/2025/685`
 - Uttar Pradesh: `UPRERAAGT000531/04/2026`
 - Delhi: `AG/RERA/2025/6108`
+- Smartworld ELIE SAAB Residences project: `UPRERAPRJ300532/12/2025`
 - Gulshan Empire Wave City project: `UPRERAPRJ166511/05/2026`
 
 Altina Livings works on a zero buyer brokerage model. Buyers pay developer-direct prices. All project information, availability, pricing, and payment terms should be verified against current developer and RERA records before a decision.
